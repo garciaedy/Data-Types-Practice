@@ -2,7 +2,7 @@
 
 # Data Types Practice
 
-This homework assignment will give you the opportunity to practice working with
+This exercise will give you the opportunity to practice working with
 the fundamentals of JavaScript covered in class.
 
 ## Prerequisites
@@ -22,6 +22,8 @@ the fundamentals of JavaScript covered in class.
 Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
 required to turn in your submission by making a pull request on the original
 repository.
+
+Open `index.html` in your browser, and utilize `console.log` to help test your work.
 
 **Make one commit for each prompt**
 
